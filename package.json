@@ -1,0 +1,29 @@
+{
+  "name": "three-react-obj-loader",
+  "version": "1.0.0",
+  "description": "Three.js OBJLoader as an ES6 Module - class OBJLoader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascassiano/three-react-obj-loader.git"
+  },
+  "keywords": [
+    "three.js",
+    "react",
+    "objloader",
+    "obj",
+    "3D"
+  ],
+  "author": "lucascassiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascassiano/three-react-obj-loader/issues"
+  },
+  "homepage": "https://github.com/lucascassiano/three-react-obj-loader#readme",
+  "dependencies": {
+    "three": "^0.87.1"
+  }
+}
